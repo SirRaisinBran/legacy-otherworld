@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "legacy:natural_nest_one",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 12,
+    "separation": 6,
+    "salt": 5627444985
+  }
+}

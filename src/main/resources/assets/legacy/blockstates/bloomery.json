@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model":  "legacy:block/bloomery" },
+    "facing=east": { "model":  "legacy:block/bloomery", "y": 90 },
+    "facing=south": { "model":  "legacy:block/bloomery", "y": 180 },
+    "facing=west": { "model":  "legacy:block/bloomery", "y": 270 }
+  }
+}

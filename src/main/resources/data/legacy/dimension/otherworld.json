@@ -1,0 +1,229 @@
+{
+  "type": "legacy:otherworld_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 1397178280,
+    "settings": "legacy:otherworld_noise",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "legacy:lush_plains",
+          "parameters": {
+            "temperature": [
+              -0.2,
+              0.31
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0.25,
+              0.48
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "legacy:bleak_shores",
+          "parameters": {
+            "temperature": [
+              -1,
+              0.32
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0.18,
+              0.23
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "legacy:briny_abyss",
+          "parameters": {
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "continentalness": [
+              -0.69,
+              0.16
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "legacy:deceitful_desert",
+          "parameters": {
+            "temperature": [
+              0.55,
+              1
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0.55,
+              1
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "legacy:misty_peaks",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.3
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0.63,
+              1
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "legacy:bottomless",
+          "parameters": {
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "continentalness": [
+              -1,
+              -0.35
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "legacy:evergreen_woods",
+          "parameters": {
+            "temperature": [
+              -0.07,
+              0.32
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0.25,
+              0.8
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "legacy:hollow_grove",
+          "parameters": {
+            "temperature": [
+              -1,
+              0
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0.38,
+              0.62
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "legacy:coal_forest",
+          "parameters": {
+            "temperature": [
+              0.25,
+              1
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0.18,
+              0.5
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "legacy:block/smooth_redspot",
+    "top": "legacy:block/smooth_redspot",
+    "side": "legacy:block/smooth_redspot"
+  }
+}

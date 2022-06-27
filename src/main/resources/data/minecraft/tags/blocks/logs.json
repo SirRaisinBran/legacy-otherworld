@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:araucaria_log",
+    "legacy:cladoxy_log",
+    "legacy:kokia_log",
+    "legacy:stripped_araucaria_log",
+    "legacy:stripped_cladoxy_log",
+    "legacy:stripped_kokia_log"
+  ]
+}

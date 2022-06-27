@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:soil",
+    "legacy:lush_soil",
+    "legacy:soil_slab",
+    "legacy:rocky_soil",
+    "legacy:lush_path"
+  ]
+}

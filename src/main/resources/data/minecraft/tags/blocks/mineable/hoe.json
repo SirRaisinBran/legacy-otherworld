@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:cyanescen_block",
+    "legacy:portobello_block"
+  ]
+}

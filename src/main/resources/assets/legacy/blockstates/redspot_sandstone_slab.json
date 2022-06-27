@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "legacy:block/redspot_sandstone_slab"
+    },
+    "type=double": {
+      "model": "legacy:block/redspot_sandstone"
+    },
+    "type=top": {
+      "model": "legacy:block/redspot_sandstone_slab_top"
+    }
+  }
+}

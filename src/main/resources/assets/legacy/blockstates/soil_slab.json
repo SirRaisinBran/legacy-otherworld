@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "legacy:block/soil_slab"
+    },
+    "type=double": {
+      "model": "legacy:block/soil"
+    },
+    "type=top": {
+      "model": "legacy:block/soil_slab_top"
+    }
+  }
+}

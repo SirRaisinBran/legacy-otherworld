@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "legacy:block/kokia_slab"
+    },
+    "type=double": {
+      "model": "legacy:block/kokia_planks"
+    },
+    "type=top": {
+      "model": "legacy:block/kokia_slab_top"
+    }
+  }
+}

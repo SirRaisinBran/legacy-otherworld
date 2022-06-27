@@ -1,0 +1,6 @@
+{
+  "schema_version": "imm_ptl:v1",
+  "from": ["minecraft:overworld"],"to": "legacy:otherworld",
+  "form": {"type": "imm_ptl:convert_conventional_portal","portal_block": "legacy:cyan_gateway"},
+  "trigger": {"type": "imm_ptl:conventional_dimension_change"}
+}

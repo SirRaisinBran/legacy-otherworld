@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "legacy:block/dead_lush"
+      },
+      {
+        "model": "legacy:block/dead_lush",
+        "y": 90
+      },
+      {
+        "model": "legacy:block/dead_lush",
+        "y": 180
+      },
+      {
+        "model": "legacy:block/dead_lush",
+        "y": 270
+      }
+    ]
+  }
+}

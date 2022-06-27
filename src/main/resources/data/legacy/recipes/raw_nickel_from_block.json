@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legacy:block_of_raw_nickel"
+    }
+  ],
+  "result": {
+    "item": "legacy:raw_nickel",
+    "count": 9
+  }
+}

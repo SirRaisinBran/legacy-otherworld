@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:village",
+  "biomes": "#legacy:has_structure/natural_nest_two",
+  "adapt_noise": true,
+  "spawn_overrides": {
+    "creature": {
+      "bounding_box": "piece",
+      "spawns": [
+        {
+          "type": "legacy:dodo",
+          "weight": 4,
+          "minCount": 2,
+          "maxCount": 4
+        }
+      ]
+    }
+  },
+  "config": {
+    "start_pool": "legacy:natural_nest_two/start_pool",
+    "size": 1
+  }
+}

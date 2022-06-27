@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model":  "legacy:block/ouroboros" },
+    "facing=east": { "model":  "legacy:block/ouroboros", "y": 90 },
+    "facing=south": { "model":  "legacy:block/ouroboros", "y": 180 },
+    "facing=west": { "model":  "legacy:block/ouroboros", "y": 270 }
+  }
+}

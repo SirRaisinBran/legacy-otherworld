@@ -1,0 +1,17 @@
+
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.05,
+        "feature": "legacy:araucaria_checked"
+      },
+      {
+        "chance": 0.025,
+        "feature": "legacy:araucaria_checked"
+      }
+    ],
+    "default": "legacy:araucaria_checked"
+  }
+}

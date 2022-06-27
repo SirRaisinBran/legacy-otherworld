@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "size=1": {
+      "model": "legacy:block/sourbread_one"
+    },
+    "size=2": {
+      "model": "legacy:block/sourbread_two"
+    },
+    "size=3": {
+      "model": "legacy:block/sourbread_three"
+    },
+    "size=4": {
+      "model": "legacy:block/sourbread_full"
+    }
+  }
+}

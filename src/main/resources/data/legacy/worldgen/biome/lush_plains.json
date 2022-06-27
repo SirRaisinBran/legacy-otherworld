@@ -1,0 +1,87 @@
+{
+  "temperature": 0.5,
+  "downfall": 0.3,
+  "precipitation": "rain",
+  "category": "plains",
+  "effects": {
+    "sky_color": 11972590,
+    "fog_color": 9681059,
+    "water_color": 8889049,
+    "water_fog_color": 329011,
+    "foliage_color": 5359760,
+    "grass_color": 5359760,
+    "music": {
+      "sound": "minecraft:music.overworld_meadow",
+      "min_delay": 8000,
+      "max_delay": 16000,
+      "replace_current_music": true
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:warped_spore"
+      },
+      "probability": 0.001
+    }
+  },
+  "spawners": {
+    "creature": [
+      {
+        "type": "legacy:dodo",
+        "weight": 4,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "legacy:auroch",
+        "weight": 3,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "legacy:darter",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 4
+      }
+    ],
+    "monster": [
+      {
+        "type": "legacy:clamor",
+        "weight": 0,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "legacy:deposit_nickel",
+      "legacy:deposit_tin",
+      "legacy:deposit_zinc"
+    ],
+    [],
+    [
+      "minecraft:spring_water"
+    ],
+    [
+      "legacy:cyan_fungi",
+      "legacy:white_fungi",
+      "legacy:patch_zoysia"
+    ],
+    []
+  ]
+}

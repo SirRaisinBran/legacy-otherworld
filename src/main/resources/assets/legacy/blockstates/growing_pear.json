@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "growth=start": {
+      "model": "legacy:block/pear_start"
+    },
+    "growth=two": {
+      "model": "legacy:block/pear_two"
+    },
+    "growth=three": {
+      "model": "legacy:block/pear_three"
+    },
+    "growth=ripe": {
+      "model": "legacy:block/pear_ripe"
+    }
+  }
+}

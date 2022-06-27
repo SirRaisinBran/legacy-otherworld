@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model":  "legacy:block/incantation_bench" },
+    "facing=east": { "model":  "legacy:block/incantation_bench", "y": 90 },
+    "facing=south": { "model":  "legacy:block/incantation_bench", "y": 180 },
+    "facing=west": { "model":  "legacy:block/incantation_bench", "y": 270 }
+  }
+}

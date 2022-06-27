@@ -1,0 +1,196 @@
+{
+  "variants": {
+    "north=false,west=false,south=false,east=false,up=false,down=false": {
+      "model": "legacy:block/cyanescen_stem_solo"
+    },
+    "north=false,west=false,south=false,east=false,up=true,down=false": {
+      "model": "legacy:block/cyanescen_stem_solo"
+    },
+    "north=false,west=false,south=false,east=false,up=false,down=true": {
+      "model": "legacy:block/cyanescen_stem_solo"
+    },
+    "north=false,west=false,south=false,east=false,up=true,down=true": {
+      "model": "legacy:block/cyanescen_stem_solo"
+    },
+    "north=true,west=false,south=false,east=false,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_north"
+    },
+    "north=false,west=true,south=false,east=false,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_west"
+    },
+    "north=false,west=false,south=true,east=false,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_south"
+    },
+    "north=false,west=false,south=false,east=true,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_east"
+    },
+    "north=true,west=true,south=false,east=false,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_north_west"
+    },
+    "north=false,west=true,south=true,east=false,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_west_south"
+    },
+    "north=false,west=false,south=true,east=true,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_south_east"
+    },
+    "north=true,west=false,south=false,east=true,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_east_north"
+    },
+    "north=true,west=false,south=true,east=false,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_north_south"
+    },
+    "north=false,west=true,south=false,east=true,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_west_east"
+    },
+    "north=true,west=true,south=true,east=false,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_north_west_south"
+    },
+    "north=false,west=true,south=true,east=true,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_west_south_east"
+    },
+    "north=true,west=false,south=true,east=true,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_south_east_north"
+    },
+    "north=true,west=true,south=false,east=true,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_east_north_west"
+    },
+    "north=true,west=true,south=true,east=true,up=false,down=false": {
+      "model": "legacy:block/cyan_mushroom_all"
+    },
+    "north=true,west=false,south=false,east=false,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_north"
+    },
+    "north=false,west=true,south=false,east=false,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_west"
+    },
+    "north=false,west=false,south=true,east=false,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_south"
+    },
+    "north=false,west=false,south=false,east=true,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_east"
+    },
+    "north=true,west=true,south=false,east=false,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_north_west"
+    },
+    "north=false,west=true,south=true,east=false,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_west_south"
+    },
+    "north=false,west=false,south=true,east=true,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_south_east"
+    },
+    "north=true,west=false,south=false,east=true,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_east_north"
+    },
+    "north=true,west=false,south=true,east=false,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_north_south"
+    },
+    "north=false,west=true,south=false,east=true,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_west_east"
+    },
+    "north=true,west=true,south=true,east=false,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_north_west_south"
+    },
+    "north=false,west=true,south=true,east=true,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_west_south_east"
+    },
+    "north=true,west=false,south=true,east=true,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_south_east_north"
+    },
+    "north=true,west=true,south=false,east=true,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_east_north_west"
+    },
+    "north=true,west=true,south=true,east=true,up=true,down=true": {
+      "model": "legacy:block/cyan_stem_arm_all"
+    },
+    "north=true,west=false,south=false,east=false,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_north"
+    },
+    "north=false,west=true,south=false,east=false,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_west"
+    },
+    "north=false,west=false,south=true,east=false,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_south"
+    },
+    "north=false,west=false,south=false,east=true,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_east"
+    },
+    "north=true,west=true,south=false,east=false,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_north_west"
+    },
+    "north=false,west=true,south=true,east=false,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_west_south"
+    },
+    "north=false,west=false,south=true,east=true,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_south_east"
+    },
+    "north=true,west=false,south=false,east=true,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_east_north"
+    },
+    "north=true,west=false,south=true,east=false,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_north_south"
+    },
+    "north=false,west=true,south=false,east=true,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_west_east"
+    },
+    "north=true,west=true,south=true,east=false,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_north_west_south"
+    },
+    "north=false,west=true,south=true,east=true,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_west_south_east"
+    },
+    "north=true,west=false,south=true,east=true,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_south_east_north"
+    },
+    "north=true,west=true,south=false,east=true,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_east_north_west"
+    },
+    "north=true,west=true,south=true,east=true,up=true,down=false": {
+      "model": "legacy:block/cyan_stem_top_all"
+    },
+    "north=true,west=false,south=false,east=false,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_north"
+    },
+    "north=false,west=true,south=false,east=false,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_west"
+    },
+    "north=false,west=false,south=true,east=false,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_south"
+    },
+    "north=false,west=false,south=false,east=true,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_east"
+    },
+    "north=true,west=true,south=false,east=false,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_north_west"
+    },
+    "north=false,west=true,south=true,east=false,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_west_south"
+    },
+    "north=false,west=false,south=true,east=true,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_south_east"
+    },
+    "north=true,west=false,south=false,east=true,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_east_north"
+    },
+    "north=true,west=false,south=true,east=false,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_north_south"
+    },
+    "north=false,west=true,south=false,east=true,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_west_east"
+    },
+    "north=true,west=true,south=true,east=false,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_north_west_south"
+    },
+    "north=false,west=true,south=true,east=true,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_west_south_east"
+    },
+    "north=true,west=false,south=true,east=true,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_south_east_north"
+    },
+    "north=true,west=true,south=false,east=true,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_east_north_west"
+    },
+    "north=true,west=true,south=true,east=true,up=false,down=true": {
+      "model": "legacy:block/cyan_stem_bottom_all"
+    }
+  }
+}

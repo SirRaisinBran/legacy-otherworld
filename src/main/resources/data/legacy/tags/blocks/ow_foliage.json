@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:zoysia",
+    "legacy:cyan_mushroom",
+    "legacy:cyan_mushroom_wall",
+    "legacy:cyan_mushroom_ceiling",
+    "legacy:scarlet_mushroom",
+    "legacy:scarlet_mushroom_wall",
+    "legacy:scarlet_mushroom_ceiling",
+    "legacy:white_mushroom",
+    "legacy:white_mushroom_wall",
+    "legacy:white_mushroom_ceiling",
+    "legacy:tall_zoysia",
+    "legacy:large_egg"
+  ]
+}

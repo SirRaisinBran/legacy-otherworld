@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "legacy:block/cladoxy_slab"
+    },
+    "type=double": {
+      "model": "legacy:block/cladoxy_planks"
+    },
+    "type=top": {
+      "model": "legacy:block/cladoxy_slab_top"
+    }
+  }
+}

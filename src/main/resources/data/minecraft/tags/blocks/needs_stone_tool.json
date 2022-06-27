@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:block_of_raw_nickel",
+    "legacy:block_of_raw_tin",
+    "legacy:block_of_raw_zinc",
+    "legacy:portobello_stem",
+    "legacy:cyanescen_stem"
+  ]
+}

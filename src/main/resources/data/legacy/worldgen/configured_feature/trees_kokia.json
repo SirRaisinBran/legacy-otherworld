@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.2,
+        "feature": "legacy:kokia_checked"
+      },
+      {
+        "chance": 0.1,
+        "feature": "legacy:kokia_checked"
+      }
+    ],
+    "default": "legacy:kokia_checked"
+  }
+}

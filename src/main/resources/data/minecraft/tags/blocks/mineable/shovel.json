@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:dry_sand",
+    "legacy:dense_clay",
+    "legacy:quicksand"
+  ]
+}

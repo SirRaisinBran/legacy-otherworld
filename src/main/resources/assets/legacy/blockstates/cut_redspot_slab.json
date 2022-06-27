@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "legacy:block/cut_redspot_slab"
+    },
+    "type=double": {
+      "model": "legacy:block/cut_redspot"
+    },
+    "type=top": {
+      "model": "legacy:block/cut_redspot_slab_top"
+    }
+  }
+}

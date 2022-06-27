@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "legacy:block/soil",
+    "top": "legacy:block/soil",
+    "side": "legacy:block/soil"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block_pile",
+  "config": {
+    "state_provider": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 1,
+          "data": {
+            "Name": "legacy:cladoxy_log",
+            "Properties": {
+              "facing": "east"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

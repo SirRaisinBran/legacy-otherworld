@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "legacy:raw_tin"
+    }
+  },
+  "result": {
+    "item": "legacy:block_of_raw_tin"
+  }
+}

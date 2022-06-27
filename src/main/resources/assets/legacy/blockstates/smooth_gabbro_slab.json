@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "legacy:block/smooth_gabbro_slab"
+    },
+    "type=double": {
+      "model": "legacy:block/smooth_gabbro"
+    },
+    "type=top": {
+      "model": "legacy:block/smooth_gabbro_slab_top"
+    }
+  }
+}

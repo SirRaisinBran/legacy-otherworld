@@ -1,0 +1,14 @@
+{
+  "type": "legacy:bloomery",
+  "ingredients": [
+    {
+      "item" : "legacy:raw_nickel"
+    },
+    {
+      "item": "minecraft:raw_iron"
+    }
+  ],
+  "output": {
+    "item": "legacy:nichrome_alloy"
+  }
+}

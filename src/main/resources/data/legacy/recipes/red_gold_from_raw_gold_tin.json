@@ -1,0 +1,14 @@
+{
+  "type": "legacy:bloomery",
+  "ingredients": [
+    {
+      "item" : "minecraft:raw_gold"
+    },
+    {
+      "item": "legacy:raw_tin"
+    }
+  ],
+  "output": {
+    "item": "legacy:red_gold_alloy"
+  }
+}

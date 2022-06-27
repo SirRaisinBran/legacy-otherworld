@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.sirraisinbran.legacy.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "HoeItemAccess",
+    "MixinFarmBlock",
+    "CropBlockMixin",
+    "PathBlockAccess",
+    "ShovelItemAccess",
+    "SignTypeAccessor",
+    "BlockEntityTypeMixin",
+    "BackgroundRendererMixin",
+    "TreeDecoratorTypeInvoker"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

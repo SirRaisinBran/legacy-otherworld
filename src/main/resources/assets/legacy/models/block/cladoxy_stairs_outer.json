@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "legacy:block/cladoxy_planks",
+    "top": "legacy:block/cladoxy_planks",
+    "side": "legacy:block/cladoxy_planks"
+  }
+}

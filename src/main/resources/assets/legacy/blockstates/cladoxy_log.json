@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "legacy:block/cladoxy_log_horizontal_two"
+    },
+    "axis=y": {
+      "model": "legacy:block/cladoxy_log"
+    },
+    "axis=z": {
+      "model": "legacy:block/cladoxy_log_horizontal"
+    }
+  }
+}

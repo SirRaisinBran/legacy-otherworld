@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "facing=north,shrooms=1":
+    {
+      "model":  "legacy:block/white_mushroom_wall_one"
+    },
+    "facing=north,shrooms=2": [
+      {
+        "model":  "legacy:block/white_mushroom_wall_two"
+      },
+      {
+        "model":  "legacy:block/white_mushroom_wall_three"
+      }
+    ],
+    "facing=east,shrooms=1":
+    {
+      "model":  "legacy:block/white_mushroom_wall_one", "y": 90
+    },
+    "facing=east,shrooms=2": [
+      {
+        "model":  "legacy:block/white_mushroom_wall_two", "y": 90
+      },
+      {
+        "model":  "legacy:block/white_mushroom_wall_three", "y": 90
+      }
+    ],
+    "facing=south,shrooms=1":
+    {
+      "model":  "legacy:block/white_mushroom_wall_one", "y": 180
+    },
+    "facing=south,shrooms=2": [
+      {
+        "model":  "legacy:block/white_mushroom_wall_two", "y": 180
+      },
+      {
+        "model":  "legacy:block/white_mushroom_wall_three", "y": 180
+      }
+    ],
+    "facing=west,shrooms=1":
+    {
+      "model":  "legacy:block/white_mushroom_wall_one", "y": 270
+    },
+    "facing=west,shrooms=2": [
+      {
+        "model":  "legacy:block/white_mushroom_wall_two", "y": 270
+      },
+      {
+        "model":  "legacy:block/white_mushroom_wall_three", "y": 270
+      }
+    ]
+  }
+}

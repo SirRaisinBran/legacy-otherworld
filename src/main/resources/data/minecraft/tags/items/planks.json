@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:araucaria_planks",
+    "legacy:kokia_planks",
+    "legacy:cladoxy_planks"
+  ]
+}

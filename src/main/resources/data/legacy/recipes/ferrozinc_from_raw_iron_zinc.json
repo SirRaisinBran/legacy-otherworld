@@ -1,0 +1,14 @@
+{
+  "type": "legacy:bloomery",
+  "ingredients": [
+    {
+      "item" : "minecraft:raw_iron"
+    },
+    {
+      "item": "legacy:raw_zinc"
+    }
+  ],
+  "output": {
+    "item": "legacy:ferrozinc_alloy"
+  }
+}

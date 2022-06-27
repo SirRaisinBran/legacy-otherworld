@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "status=false": { "model": "legacy:block/scarlet_floor"},
+    "status=true": { "model": "legacy:block/scarlet_lone"}
+  }
+}

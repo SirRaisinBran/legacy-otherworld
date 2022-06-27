@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "legacy:block/einkorn_stage_2"
+  }
+}

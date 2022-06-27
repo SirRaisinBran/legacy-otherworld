@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:araucaria_log",
+    "legacy:stripped_araucaria_log"
+  ]
+}

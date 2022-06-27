@@ -1,0 +1,85 @@
+{
+  "temperature": 1.0,
+  "downfall": 0.5,
+  "precipitation": "none",
+  "category": "desert",
+  "effects": {
+    "sky_color": 12039120,
+    "fog_color": 11896681,
+    "water_color": 8361149,
+    "water_fog_color": 329011,
+    "foliage_color": 8439455,
+    "grass_color": 8439455,
+    "music": {
+      "sound": "minecraft:music.nether_soul_sand_valley",
+      "min_delay": 8000,
+      "max_delay": 16000,
+      "replace_current_music": true
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:crimson_spore"
+      },
+      "probability": 0.001
+    }
+  },
+  "spawners": {
+    "creature": [
+      {
+        "type": "legacy:shroud",
+        "weight": 4,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "legacy:darter",
+        "weight": 4,
+        "minCount": 1,
+        "maxCount": 4
+      }
+    ],
+    "monster": [
+      {
+        "type": "legacy:clamor",
+        "weight": 0,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "legacy:deposit_nickel",
+      "legacy:deposit_tin",
+      "legacy:deposit_zinc"
+    ],
+    [],
+    [
+      "minecraft:spring_water"
+    ],
+    [
+      "legacy:disk_quicksand",
+      "legacy:scarlet_fungi",
+      "legacy:patch_cacti_2",
+      "legacy:patch_cacti_3",
+      "legacy:patch_cacti_4",
+      "legacy:patch_cacti_5",
+      "legacy:patch_cacti_6"
+    ],
+    []
+  ]
+}

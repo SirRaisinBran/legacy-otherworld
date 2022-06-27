@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "legacy:block/white_mushroom_ceiling"
+  }
+}

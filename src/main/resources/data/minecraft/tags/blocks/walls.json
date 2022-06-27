@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:gabbro_wall",
+    "legacy:gabbro_brick_wall",
+    "legacy:grimstone_wall",
+    "legacy:grimstone_brick_wall",
+    "legacy:redspot_sandstone_wall",
+    "legacy:smooth_redspot_wall"
+  ]
+}

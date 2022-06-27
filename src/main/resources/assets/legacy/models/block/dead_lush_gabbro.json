@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "legacy:block/dead_lush_top",
+    "bottom": "legacy:block/gabbro",
+    "side": "legacy:block/dead_lush_gabbro"
+  }
+}

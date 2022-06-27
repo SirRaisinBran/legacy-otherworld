@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "legacy:block/polished_grimstone",
+    "top": "legacy:block/polished_grimstone",
+    "side": "legacy:block/polished_grimstone"
+  }
+}

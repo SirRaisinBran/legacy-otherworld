@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "legacy:block/grimstone_brick_slab"
+    },
+    "type=double": {
+      "model": "legacy:block/grimstone_bricks"
+    },
+    "type=top": {
+      "model": "legacy:block/grimstone_brick_slab_top"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "precipitation": "rain",
+  "category": "ocean",
+  "effects": {
+    "sky_color": 12104422,
+    "fog_color": 2894671,
+    "water_color": 4349850,
+    "water_fog_color": 1381673,
+    "foliage_color": 9146474,
+    "grass_color": 9146474,
+    "music": {
+      "sound": "minecraft:music.under_water",
+      "min_delay": 8000,
+      "max_delay": 16000,
+      "replace_current_music": true
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:underwater"
+      },
+      "probability": 0.02
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "legacy:deposit_nickel",
+      "legacy:deposit_tin",
+      "legacy:deposit_zinc"
+    ],
+    [],
+    [],
+    [],
+    []
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "legacy:block/tightrope_vertical",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,bottom=false": {
+      "model": "legacy:block/tightrope_vertical"
+    },
+    "axis=y,bottom=true": {
+      "model": "legacy:block/tightrope_hanging"
+    },
+    "axis=z": {
+      "model": "legacy:block/tightrope_vertical",
+      "x": 90
+    }
+  }
+}

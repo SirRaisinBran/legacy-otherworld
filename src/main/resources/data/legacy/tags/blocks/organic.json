@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:lush_soil",
+    "legacy:lush_path",
+    "legacy:lush_gabbro",
+    "legacy:araucaria_log",
+    "legacy:araucaria_leaves",
+    "legacy:stripped_araucaria_log",
+    "legacy:kokia_log",
+    "legacy:kokia_leaves",
+    "legacy:stripped_kokia_log",
+    "legacy:cladoxy_log",
+    "legacy:cladoxy_leaves",
+    "legacy:stripped_cladoxy_log"
+  ]
+}

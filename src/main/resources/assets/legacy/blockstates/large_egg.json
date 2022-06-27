@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model":  "legacy:block/large_egg" },
+    "facing=east": { "model":  "legacy:block/large_egg", "y": 90 },
+    "facing=south": { "model":  "legacy:block/large_egg", "y": 180 },
+    "facing=west": { "model":  "legacy:block/large_egg", "y": 270 }
+  }
+}

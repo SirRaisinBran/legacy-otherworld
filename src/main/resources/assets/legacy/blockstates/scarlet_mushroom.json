@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "shape=lone": {
+      "model": "legacy:block/scarlet_mushroom"
+    },
+    "shape=stem": [
+      {
+        "model": "legacy:block/scarlet_stem"
+      },
+      {
+        "model": "legacy:block/scarlet_stem_one"
+      },
+      {
+        "model": "legacy:block/scarlet_stem_two"
+      },
+      {
+        "model": "legacy:block/scarlet_stem_three"
+      }
+    ],
+    "shape=bottom": {
+      "model": "legacy:block/scarlet_stem_bottom"
+    }
+  }
+}

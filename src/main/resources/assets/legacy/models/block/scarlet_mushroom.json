@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "legacy:item/scarlet_mushroom"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "times=0,status=fed": {
+      "model": "legacy:block/starter_new_fed"
+    },
+    "times=0,status=hungry": {
+      "model": "legacy:block/starter_new_hungry"
+    },
+    "times=1,status=fed": {
+      "model": "legacy:block/starter_one_fed"
+    },
+    "times=1,status=hungry": {
+      "model": "legacy:block/starter_one_hungry"
+    },
+    "times=2,status=fed": {
+      "model": "legacy:block/starter_two_fed"
+    },
+    "times=2,status=hungry": {
+      "model": "legacy:block/starter_two_hungry"
+    },
+    "times=3,status=fed": {
+      "model": "legacy:block/starter_three_fed"
+    },
+    "times=3,status=hungry": {
+      "model": "legacy:block/starter_three_hungry"
+    },
+    "times=4,status=fed": {
+      "model": "legacy:block/starter_four_fed"
+    },
+    "times=4,status=hungry": {
+      "model": "legacy:block/starter_four_hungry"
+    }
+  }
+}

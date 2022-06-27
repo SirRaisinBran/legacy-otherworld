@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "legacy:block/lush_soil"
+      },
+      {
+        "model": "legacy:block/lush_soil",
+        "y": 90
+      },
+      {
+        "model": "legacy:block/lush_soil",
+        "y": 180
+      },
+      {
+        "model": "legacy:block/lush_soil",
+        "y": 270
+      }
+    ]
+  }
+}

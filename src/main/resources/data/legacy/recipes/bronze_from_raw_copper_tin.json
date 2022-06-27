@@ -1,0 +1,14 @@
+{
+  "type": "legacy:bloomery",
+  "ingredients": [
+    {
+      "item" : "minecraft:raw_copper"
+    },
+    {
+      "item": "legacy:raw_tin"
+    }
+  ],
+  "output": {
+    "item": "legacy:bronze_alloy"
+  }
+}

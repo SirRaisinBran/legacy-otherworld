@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0": { "model": "legacy:block/einkorn_stage_1" },
+    "age=1": { "model": "legacy:block/einkorn_stage_2" },
+    "age=2": { "model": "legacy:block/einkorn_stage_3" },
+    "age=3": { "model": "legacy:block/einkorn_stage_4" },
+    "age=4": { "model": "legacy:block/einkorn_stage_5" },
+    "age=5": { "model": "legacy:block/einkorn_stage_6" }
+  }
+}

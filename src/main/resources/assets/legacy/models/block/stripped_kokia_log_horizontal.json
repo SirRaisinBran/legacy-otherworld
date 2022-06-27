@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "legacy:block/stripped_kokia_log_top",
+    "side": "legacy:block/stripped_kokia_log_side"
+  }
+}

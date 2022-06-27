@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "legacy:block/smooth_gabbro",
+    "top": "legacy:block/smooth_gabbro",
+    "side": "legacy:block/smooth_gabbro"
+  }
+}

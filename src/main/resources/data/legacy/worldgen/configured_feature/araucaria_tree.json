@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:tree",
+  "config": {
+    "ignore_vines": false,
+    "force_dirt": false,
+    "minimum_size": {
+      "type": "minecraft:two_layers_feature_size",
+      "limit": 1,
+      "lower_size": 0,
+      "upper_size": 2
+    },
+    "dirt_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "legacy:soil"
+      }
+    },
+    "trunk_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "legacy:araucaria_log"
+      }
+    },
+    "foliage_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "legacy:araucaria_leaves"
+      }
+    },
+    "trunk_placer": {
+      "type": "minecraft:straight_trunk_placer",
+      "base_height": 8,
+      "height_rand_a": 2,
+      "height_rand_b": 0
+    },
+    "foliage_placer": {
+      "type": "minecraft:spruce_foliage_placer",
+      "radius": 2,
+      "offset": 2,
+      "trunk_height": 4
+    },
+    "decorators": [
+    ]
+  }
+}

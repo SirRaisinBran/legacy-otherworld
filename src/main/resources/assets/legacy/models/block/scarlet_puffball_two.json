@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "legacy:block/scarlet_stem_top_two"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "legacy:block/tilled_soil"
+    },
+    "moisture=1": {
+      "model": "legacy:block/tilled_soil"
+    },
+    "moisture=2": {
+      "model": "legacy:block/tilled_soil"
+    },
+    "moisture=3": {
+      "model": "legacy:block/tilled_soil"
+    },
+    "moisture=4": {
+      "model": "legacy:block/tilled_soil"
+    },
+    "moisture=5": {
+      "model": "legacy:block/tilled_soil"
+    },
+    "moisture=6": {
+      "model": "legacy:block/tilled_soil"
+    },
+    "moisture=7": {
+      "model": "legacy:block/tilled_soil_moist"
+    }
+  }
+}

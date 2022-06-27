@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "legacy:block/scarlet_puffball"
+      },
+      {
+        "model": "legacy:block/scarlet_puffball_two"
+      },
+      {
+        "model": "legacy:block/scarlet_puffball_three"
+      },
+      {
+        "model": "legacy:block/scarlet_puffball_four"
+      }
+    ]
+  }
+}

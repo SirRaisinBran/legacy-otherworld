@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "legacy:block/cyan_gateway_ns"
+    },
+    "axis=z": {
+      "model": "legacy:block/cyan_gateway_ew"
+    }
+  }
+}

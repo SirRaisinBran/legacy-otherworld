@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:block_of_raw_nickel",
+    "legacy:block_of_raw_zinc",
+    "legacy:block_of_charcoal",
+    "legacy:block_of_raw_tin",
+    "legacy:gabbro",
+    "legacy:smooth_gabbro",
+    "legacy:gabbro_bricks",
+    "legacy:redspot_sandstone",
+    "legacy:smooth_redspot",
+    "legacy:cut_redspot",
+    "legacy:gold_deposits",
+    "legacy:nickel_deposits",
+    "legacy:tin_deposits",
+    "legacy:zinc_deposits",
+    "legacy:rocky_soil"
+  ]
+}

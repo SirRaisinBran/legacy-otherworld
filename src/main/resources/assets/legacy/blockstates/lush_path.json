@@ -1,0 +1,35 @@
+{
+  "variants": {
+    "rocky=false": [
+      {
+        "model": "legacy:block/lush_path"
+      },
+      {
+        "model": "legacy:block/lush_path",
+        "y": 90
+      },
+      {
+        "model": "legacy:block/lush_path",
+        "y": 180
+      },
+      {
+        "model": "legacy:block/lush_path",
+        "y": 270
+      }
+    ],
+    "rocky=true": [
+      {
+        "model": "legacy:block/stony_path_one"
+      },
+      {
+        "model": "legacy:block/stony_path_two"
+      },
+      {
+        "model": "legacy:block/stony_path_three"
+      },
+      {
+        "model": "legacy:block/stony_path_four"
+      }
+    ]
+  }
+}

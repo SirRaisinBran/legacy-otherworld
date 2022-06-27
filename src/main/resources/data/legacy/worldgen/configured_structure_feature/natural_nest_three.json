@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:village",
+  "biomes": "#legacy:has_structure/natural_nest_three",
+  "adapt_noise": true,
+  "spawn_overrides": {
+    "creature": {
+      "bounding_box": "piece",
+      "spawns": [
+        {
+          "type": "legacy:dodo",
+          "weight": 4,
+          "minCount": 1,
+          "maxCount": 2
+        }
+      ]
+    }
+  },
+  "config": {
+    "start_pool": "legacy:natural_nest_three/start_pool",
+    "size": 1
+  }
+}

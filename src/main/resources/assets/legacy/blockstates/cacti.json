@@ -1,0 +1,106 @@
+{
+  "variants": {
+    "cacti=1": [
+      {
+      "model": "legacy:block/cacti_one_cacti"
+      },
+      {
+      "model": "legacy:block/cacti_one_cacti",
+      "y" : 90
+      },
+      {
+      "model": "legacy:block/cacti_one_cacti",
+      "y" : 180
+      },
+      {
+      "model": "legacy:block/cacti_one_cacti",
+      "y" : 270
+      }
+    ],
+    "cacti=2": [
+      {
+      "model": "legacy:block/cacti_two_cacti"
+      },
+      {
+      "model": "legacy:block/cacti_two_cacti",
+      "y" : 90
+      },
+      {
+      "model": "legacy:block/cacti_two_cacti",
+      "y" : 180
+      },
+      {
+      "model": "legacy:block/cacti_two_cacti",
+      "y" : 270
+      }
+    ],
+    "cacti=3": [
+      {
+      "model": "legacy:block/cacti_three_cacti"
+      },
+      {
+      "model": "legacy:block/cacti_three_cacti",
+      "y" : 90
+      },
+      {
+      "model": "legacy:block/cacti_three_cacti",
+      "y" : 180
+      },
+      {
+      "model": "legacy:block/cacti_three_cacti",
+      "y" : 270
+      }
+    ],
+    "cacti=4": [
+      {
+      "model": "legacy:block/cacti_four_cacti"
+      },
+      {
+      "model": "legacy:block/cacti_four_cacti",
+      "y" : 90
+      },
+      {
+      "model": "legacy:block/cacti_four_cacti",
+      "y" : 180
+      },
+      {
+      "model": "legacy:block/cacti_four_cacti",
+      "y" : 270
+      }
+    ],
+    "cacti=5": [
+      {
+      "model": "legacy:block/cacti_five_cacti"
+      },
+      {
+      "model": "legacy:block/cacti_five_cacti",
+      "y" : 90
+      },
+      {
+      "model": "legacy:block/cacti_five_cacti",
+      "y" : 180
+      },
+      {
+      "model": "legacy:block/cacti_five_cacti",
+      "y" : 270
+      }
+    ],
+    "cacti=6": [
+      {
+      "model": "legacy:block/cacti_six_cacti"
+      },
+      {
+      "model": "legacy:block/cacti_six_cacti",
+      "y" : 90
+      },
+      {
+      "model": "legacy:block/cacti_six_cacti",
+      "y" : 180
+      },
+      {
+      "model": "legacy:block/cacti_six_cacti",
+      "y" : 270
+      }
+    ]
+  }
+}

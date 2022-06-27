@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:soil",
+    "legacy:lush_soil",
+    "legacy:lush_gabbro"
+  ]
+}

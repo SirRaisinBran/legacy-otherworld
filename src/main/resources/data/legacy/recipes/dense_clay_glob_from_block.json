@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legacy:dense_clay"
+    }
+  ],
+  "result": {
+    "item": "legacy:clay_glob",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.05,
+        "feature": "legacy:cladoxy_checked"
+      },
+      {
+        "chance": 0.025,
+        "feature": "legacy:cladoxy_checked"
+      }
+    ],
+    "default": "legacy:cladoxy_checked"
+  }
+}

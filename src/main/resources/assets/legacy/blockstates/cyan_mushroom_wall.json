@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "facing=north": [
+      {
+        "model":  "legacy:block/cyan_mushroom_wall"
+      },
+      {
+        "model":  "legacy:block/cyan_mushroom_wall_two"
+      }
+    ],
+    "facing=east": [
+      {
+        "model":  "legacy:block/cyan_mushroom_wall", "y": 90
+      },
+      {
+        "model":  "legacy:block/cyan_mushroom_wall_two", "y": 90
+      }
+    ],
+    "facing=south": [
+      {
+        "model":  "legacy:block/cyan_mushroom_wall", "y": 180
+      },
+      {
+        "model":  "legacy:block/cyan_mushroom_wall_two", "y": 180
+      }
+    ],
+    "facing=west": [
+      {
+        "model":  "legacy:block/cyan_mushroom_wall", "y": 270
+      },
+      {
+        "model":  "legacy:block/cyan_mushroom_wall_two", "y": 270
+      }
+    ]
+  }
+}

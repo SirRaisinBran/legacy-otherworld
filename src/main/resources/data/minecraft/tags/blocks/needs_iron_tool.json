@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "legacy:gold_deposits",
+    "legacy:nickel_deposits",
+    "legacy:tin_deposits",
+    "legacy:zinc_deposits",
+    "legacy:ruby_ore"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "legacy:block/grimstone_bricks"
+      },
+      {
+        "model": "legacy:block/grimstone_cracked"
+      }
+    ]
+  }
+}

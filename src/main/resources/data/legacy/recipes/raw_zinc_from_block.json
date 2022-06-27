@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legacy:block_of_raw_zinc"
+    }
+  ],
+  "result": {
+    "item": "legacy:raw_zinc",
+    "count": 9
+  }
+}

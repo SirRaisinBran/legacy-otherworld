@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "legacy:block/stripped_cladoxy_log_horizontal_two"
+    },
+    "axis=y": {
+      "model": "legacy:block/stripped_cladoxy_log"
+    },
+    "axis=z": {
+      "model": "legacy:block/stripped_cladoxy_log_horizontal"
+    }
+  }
+}
